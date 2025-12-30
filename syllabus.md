@@ -1,4 +1,4 @@
-**3510-200 -- Decolonizing Politics**
+**3510-- Decolonizing Politics**
 
 ## Land Acknowledgement
 
@@ -35,29 +35,22 @@ Turtle Island (North America).
 - Encourage contribution to indigenous led organisations, in particular,
   the Indian Residential School Survival Society <https://irsss.ca>
 
-  -----------------------------------------------------------------------
-  **Course      Decolonizing Politics
-  Title:**      
-  ------------- ---------------------------------------------------------
-  **Location    Check your timetable
-  and time:**   
-
-  -----------------------------------------------------------------------
-
   -------------------------------------------------------------------------
-  **Instructor**   Dan Bousfield
+  **Course         Decolonizing politics
+  Title:**         
   ---------------- --------------------------------------------------------
-  **Office Hours** Wednesday 11:00am-01:00pm via zoom - link in Brightspace
+  **Location and   Check your timetable
+  time:**          
 
-  **Lectures**     See your timetable
+  **Instructor**   Dan Bousfield
+
+  **Office Hours** Wednesday 11:00am- 01:00pm via zoom - link in
+                   Brightspace
 
   **Email:**       dbousfie@uwo.ca
 
   **Text only      289-620-6665
   phone**          
-
-  Optional         
-  Facebook group   
 
   **Zoom**         Available through the sidebar in Brightspace
   -------------------------------------------------------------------------
@@ -117,31 +110,28 @@ online library reserve, or through the library search.
 +---------------------------------+------------------------------------+
 | Option 1                        | Option 2                           |
 +=================================+====================================+
-| Weekly Participation 25%        | Weekly Participation 25%           |
+| Weekly Participation 15% (Quiz  | Weekly Participation 15% (Quiz and |
+| and Group work)                 | Groupwork)                         |
 +---------------------------------+------------------------------------+
-| Essay 40% -                     | Term Assignment 25% - Written term |
-|                                 | assignments due the end of Week 7  |
-| Due at the end of Week 9 (March | (march 4, 2026). Presentation due  |
-| 18, 2026)                       | dates vary.                        |
+| Paired debate/Media Assessment/ | Paired debate/Media Assessment CEL |
+| CEL (if offered) 25%            | (if offered) 25%                   |
++---------------------------------+------------------------------------+
+| Essay 40% - Due at the end of   | Written responses 20% - (250 words |
+| Week 10 (March 25, 2026)        | minimum) + calculation assignment  |
+|                                 | due                                |
 |                                 |                                    |
-|                                 | Signup by the end of week 3,       |
-|                                 | always requires formal academic    |
-|                                 | accommodation for rescheduling.    |
+|                                 | April 9, 2026.                     |
 +---------------------------------+------------------------------------+
-| Summative Assignment 10% -- Due | Summative Assignment 10% -- Due at |
-| at the end of Week 11 (April 1, | the end of Week 11 (April 1,       |
-| 2026).                          | 2026).                             |
-+---------------------------------+------------------------------------+
-| Exam 25% - In person exam       | Exam 40% - In person exam During   |
-| During Exam Period              | Exam Period                        |
+| Exam 20% - online exam during   | Exam 40% - online exam during the  |
+| exam period                     | exam period                        |
 +---------------------------------+------------------------------------+
 
 ## For all written work in this course: 
 
 This course requires a minimum of 2500 words of academic prose to meet
 university requirements for 3000-level half courses. This includes all
-essay-style paragraphs (weekly responses), the term assignment and any
-additional written assignments.
+essay-style paragraphs (weekly responses), the term assignment, and any
+additional written assignments including the exam.
 
 ## Paragraph structure 
 
@@ -282,11 +272,11 @@ following assessments with built-in flexibility.
 Flexible Completion assignments:
 
 Weekly participation. This course has 12 weekly participation
-assignments, and the 8 quizzes with the highest marks are counted
+assignments, and the 10 quizzes with the highest marks are counted
 towards your final grade. Should extenuating circumstances arise,
-students do not need to request Academic Consideration for the first 4
+students do not need to request Academic Consideration for the first 2
 missed weekly participations. Academic consideration requests will be
-denied for the first 4 missed weekly participation assignments.
+denied for the first 2 missed weekly participation assignments.
 
 Religious Accommodation
 
@@ -338,85 +328,110 @@ submitted to the system. Use of the service is subject to the licensing
 agreement, currently between The University of Western Ontario and
 Turnitin.com ([http://www.turnitin.com](http://www.turnitin.com/)).
 
-## Weekly Participation -- (Weekly submissions) 
+## Weekly Work
 
-Weekly Assignments -- Base submission is pass/fail 70% (17.5 of 25)
+All students - Weekly participation 15%
 
-Students **must** complete a minimum of **two engagement options
-weekly** (Monday 12:01 am - Sunday 11:59 pm) to fulfill participation
-requirements. Quizzes can be completed each week for one participation
-mark. Tiktoks can be done each week but do not count towards your word
-count for the course. You can choose to do 250-word paragraph responses
-each week, but they need to follow the requirements outlined in this
-syllabus. Other written forms of participation can only be done twice
-each during the entire course (i.e. you can only do 2 policy briefs
-summaries per semester). You can collaborate with peers on submissions,
-but they must be submitted individually. A total of 8 weeks of
-participation is required, allowing students to skip 2 weeks (e.g.,
-weeks 1,2 and 11, 12). Completing 8 weeks fulfills the full 70%. If you
-are submitting the same assignment for a second time, make sure to
-address 'What did I do differently this week?'
+Students writing the essay only need to complete the quiz and the weekly
+group work, 10 of 12 weeks to get full marks. The quiz must be
+attempted; any particular score is not necessary to achieve the
+participation mark. The group work must be recorded through the
+Microsoft form during the week of class, failure to document your group
+work makes it ineligible for participation.
 
-**Weekly Engagement Options (a minimum of two options required per
-week):**
+Missed classes - For students choosing Option 1 (students writing an
+essay). Any missed weekly participation can be supplemented with a
+written response option below; however students writing the essay cannot
+achieve more than 15% on weekly participation.
 
-1.  **Brightspace Lesson Quiz Completion**\
-    Complete the 2 lesson quizzes in the 'Tests & Quizzes' section.
-    These quizzes are pass/fail; only completion is counted, not quiz
-    score. Each quiz counts for one participation mark. In-class
-    exercises can also count for participation but are unlikely to help
-    you achieve your word count requirements.
+Option 2 - (students choosing not to write an essay) Written responses
+20%
 
-2.  **Written Responses (250 words per lesson)**
+Base submission is a pass/fail 70% of the grade. 80% weekly for
+participation that is acceptable but needs substantive improvement. 85%
+for participation that is mostly acceptable. 90%+ for acceptable
+participation with the response in Brightspace being 'ok'.
 
-- *Written Responses (250 words per lesson):* A reflective analysis
-  engaging with lesson ideas and concepts from lectures, readings, or
-  both. This is not a summary but a critical engagement that links
-  material to current Canada US relations. Proper essay paragraph
-  structure and intext citations are required where applicable. You must
-  reference the course readings at least three times per week to get
-  maximum grades. Submissions not meeting these standards are ineligible
-  for full credit. Each written response counts for one participation
-  mark. See detailed criteria below.
+Students choosing Option 2 (not writing an essay) **must** complete a
+written **engagement option weekly** (Thursday 12:01 am - Wednesday
+11:59 pm) to fulfill participation requirements. Submitting your written
+participation work on the day of class receives a 5% bonus (bringing the
+base to 75%). The mark comes from a 250-word paragraph responses or
+infographic, and they need to follow the paragraph requirements outlined
+in this syllabus. **A total of 10 weeks of participation is required**,
+allowing students to skip 2 weeks (e.g., weeks 1 and 12). The total
+grade is calculated on Week 12 following the requirements below.
 
-- *Other formatting of the 250 words from this list:*
-  <https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies>
-  **excluding**: True/False Questions, Quiz, Exams and Tests,
-  Fill-in-the-Blank Questions, Close Reading with Questions, Diagram or
-  Image-Based Questions, Summary. If you have any questions, please
-  contact the instructor about the viability of your participation.
+Weekly Written Engagement Options:
 
-3.  **Video Responses (**does not count towards your total word count)\
-    A short (TikTok-style) video exploring a key academic issue from
-    each lesson's content, suitable for a general audience. Videos must
-    reference at least one academic, peer-reviewed source from our
-    reading list and can be uploaded to Brightspace each week (or linked
-    if hosted elsewhere). Public posting is not required. Each video
-    counts for one participation mark.
+1.  **Written Responses (250 words per lesson)**
 
-> Sample weekly participation submission:![Picture 565367195,
-> Picture](/media/image2.png){width="4.989583333333333in"
-> height="1.7916666666666667in"}
+*Written Responses (250 words per lesson):* A **reflective** analysis
+engaging with lesson ideas and concepts from lectures, readings, or
+both. This is not a summary but a critical engagement that links
+material to current international law. ***You must add your own people,
+events, or issues to the response that are outside of the readings.***
+There are prompts available next to the weekly readings that should
+guide your response. Proper essay paragraph structure and intext
+citations are required where applicable. You must reference the course
+readings at least three times per week to get maximum grades.
+Submissions not meeting these standards are ineligible for full credit.
+Each written response counts for one participation mark. See detailed
+criteria below.
 
-A Final calculation activity is **required** to receive your
-participation mark.
+2.  **Infographic** (minimum 250 words per week)
 
-At the end of the course students just need to calculate their
-participation based on the submissions each week throughout the course.
-We will take your top 8 weeks.\
+For the infographic option, students must produce a visually compelling
+and clearly organized visual argument that shows critical engagement
+with this week's material. The infographic should draw directly on at
+least two course readings, including direct quotations that are embedded
+meaningfully in the visual narrative. It must reflect current debates in
+Canada, using events or policy developments from the past few weeks to
+make clear why the material matters now. The assignment should not just
+present information but take a position, expose a political issue, or
+offer a critique based on the themes of the week. A bibliography in
+proper citation format must be included at the bottom or on a final
+panel. Minimum 250 words. See the google sheet tab with 'sample
+assignments' for an example of a successful infographic.
+
+Calculating participation:\
+Q: Why do you do it this way? A: We use this structure to reduce
+unconscious bias and subjective grading. Participation becomes
+transparent and equitable because grades are based on clear, objective
+evidence---not attendance, personality, or assumptions. Credit for
+submissions require documented improvement and, for written work, direct
+citation of weekly readings.
+
+Q: What does it mean to calculate participation? A: Calculating
+participation minimizes unconscious bias, groupthink, and subjective
+grading. It creates a clear, fair structure for assessment. At the end
+of the course, students self-calculate their participation based on what
+they submitted each week. We only count your top 10 submissions. If
+there are any exceptional circumstances, please document them in your
+final attachment summary and explain how they impact your calculation. I
+reserve the right to reassess any or all participation during the final
+calculation.\
 \
-2 forms of participation per week = 70% (pass/fail)\
-\
-More than 2 forms of participation each week, or substantive improvement
-can result in a higher grade (the 80, 85 and 90 grades below are
-approximations, I withhold the right to assess the quality of the
-submission and adjust the grade accordingly). You should be able to
-demonstrate your responses to my feedback, engaging with different
-course material each week to demonstrate improvement throughout the
-course. See Brightspace for an example of how to calculate your
-participation grade.
+Sample calculation\
+w1 85 - 'more precise'\
+w2 85 - 'more precise'\
+w3 85 -- 'too colloquial'\
+w4 85 -- 'clarity needed'\
+w5 85 - 'concluding bubble missing information'\
+w6 0\
+w7 85 - 'urls and conclusion need improvement'\
+w8 85 'need for direct quotes'\
+w9 70\
+w10 90 -- 'ok\'\
+w11 90- 'ok'\
+w12 0\
+7 weeks at 85 = 7x85 = 595\
+2 weeks at 90 = 180\
+1 week at 70 = 70
 
-## Attendance Bonus (5% on Final Exam ***or*** Essay)
+595+180+70 = 845 = 84.5%
+
+## Attendance Bonus (5% on Final Exam ***or*** Essay -- whichever is 40%)
 
 Students will receive a 1% bonus on their final exam or essay grade for
 every two classes attended (attendance must be recorded through the
@@ -461,9 +476,10 @@ take alternative formats as long as they accomplish the requirements
 outlined above. In order to receive an individual mark, students must
 upload a short (200 word) summary of their role in the debate
 preparation and execution, assessing their groups' strengths and
-weaknesses in OWL under 'Assignments'. All written work must use proper
-essay paragraph structure and conform to the 'criteria for the
-evaluation of written assignments' below or it cannot achieve full
+weaknesses in OWL under 'Assignments'. If no individual summary is
+included both students will receive the same mark .All written work must
+use proper essay paragraph structure and conform to the 'criteria for
+the evaluation of written assignments' below or it cannot achieve full
 grades.
 
 ### Option 2 - Media Assessment
@@ -486,7 +502,7 @@ All written work must use proper essay paragraph structure and conform
 to the 'criteria for the evaluation of written assignments' below or it
 cannot achieve full grades.
 
-## Option 4: Community Engaged Learning 15 % of final grade
+## Option 3: Community Engaged Learning 
 
 A few students will have the option of participating in a Community
 Engaged Learning (CEL) opportunity with an offsite organization involved
@@ -508,11 +524,11 @@ grades.
 
 ## Essay 40% of final grade, due at the end of Week 10 
 
-The final draft of the paper should be 8 pages (2000 words) in length
-(excluding the bibliography) and must be presented in proper scholarly
-format. The instructor may require that 10% of randomly selected
-students will have to meet to discuss their paper after completion to
-ensure there has been no improper LLM use.
+The final draft of the paper should be 8 pages (2000 words +/- 10%
+strictly enforced) in length (excluding the bibliography) and must be
+presented in proper scholarly format. The instructor may require that
+10% of randomly selected students will have to meet to discuss their
+paper after completion to ensure there has been no improper LLM use.
 
 Students will write a major research paper (based primarily on academic
 sources) on a topic of their choice, to be arrived at in consultation
@@ -587,21 +603,17 @@ OWL and all papers may be processed by turnitin. Papers submitted after
 deadlines (including excused late papers) will be marked, but comments
 will not be provided.
 
-## Final Exam 
+## Final Exam : To be held online during the scheduled exam period.
 
-25% of final course grade. To be scheduled during the exam period.
-
-The final exam will be cumulative (i.e., will be based on the material
-covered in lectures, assigned readings, and discussions throughout the
-whole of the course). The exam may include both a short
-answer/identification component and questions requiring longer,
-essay-style responses. A choice of answers and an exam preparation guide
-may be given. The examination requires a breadth of use of the course
-readings, examination answers that reference one or two readings fail to
-demonstrate breadth and cannot achieve full marks regardless of any
-other criteria. All written work must use proper essay paragraph
-structure and conform to the 'criteria for the evaluation of written
-assignments' below or it cannot achieve full grades.
+20 or 40% of final course grade (depending on course options chosen).
+For those who choose the essay or the exam is worth 20%. For those who
+choose the weekly responses the final exam is worth 40%. To be scheduled
+during the exam period. The final exam will be cumulative (i.e., will be
+based on the material covered in lectures, assigned readings, and
+discussions throughout the whole of the course). The exam may include
+both a short answer/identification component and questions requiring
+longer, essay-style responses. Choice of answers and an exam preparation
+guide may be given.
 
 # Learning Outcomes
 
@@ -735,7 +747,7 @@ Turnitin.com ( http://www.turnitin.com )."
 ## Guidelines for Success in Class
 
 Since there seldom are definitive answers to the questions we will be
-asking about Canadian-US relations, and much of what you will learn in
+asking about decolonizing politics, and much of what you will learn in
 this course will be enhanced by the ideas and perspectives of your
 colleagues. But for this to work, everyone must participate fully and
 constructively. Be mindful of the following points, and you will be
@@ -771,36 +783,6 @@ successful:
     to the forum.
 
 # Criteria for the evaluation of written assignments
-
-## Paragraph structure 
-
-Basic paragraph structure is an important part of writing. Failure to
-use basic paragraph structure will result in repetitive, unstructured,
-illogical arguments. Paragraphs help to structure our thought, our
-ability to make claims and provide a framework for writing. The topic
-sentence and concluding sentence of a paragraph should be in your own
-voice (no direct references). A basic paragraph structure should follow
-this template:
-
-> Topic sentence one or two lines
->
-> Major point with evidence one or two lines (one with citation and one
-> in your own words)
->
-> Major point with evidence one or two lines (one with citation and one
-> in your own words)
->
-> Major point with evidence one or two lines (one with citation and one
-> in your own words)
->
-> Summarizing sentence of overall significance to the overarching thesis
-> of the paper
->
-> Concluding sentence which restates topic sentence and bridges to next
-> paragraph.
-
-Failure to use basic paragraph structure throughout your work will
-result in the inability to receive full marks.
 
 ## Quotations
 
@@ -843,7 +825,7 @@ minimum.
   them with a semi-colon in chronological order i.e (Žižek 2002: 345;
   D'Amelio 2018: 212; Swift 2020: 445)
 
-## Bibliography 
+## Bibliography (style: Modified Harvard) - no footnotes or endnotes are allowed for citation
 
 > A bibliography must be included in all written work, it should include
 > the complete details of the work and included an 'Accessed' date if it
@@ -1086,14 +1068,14 @@ whatever our backgrounds, experiences, or positions.
 
 ## Policy on the use of LLMs (AI, ChatGPT, Bard, etc) in the classroom **^3^**
 
-Unless otherwise noted during class activities, you may only use ChatGPT
-or any other Generative technology to *aid* or *nuance* your thinking,
-communication, and learning; but not to *replace* or *subvert* it. See
-the table below for some examples of allowable and non-allowable uses of
-Generative technology in this class (NOTE: This is not an exhaustive
-list of examples). Generative technology may be used to assist in
-assessment throughout the course, if you wish to opt out of the use of
-generative technology, please let me know.
+Unless otherwise noted during class activities, you may only use LLMs,
+ChatGPT or any other Generative technology to *aid* or *nuance* your
+thinking, communication, and learning; but not to *replace* or *subvert*
+it. See the table below for some examples of allowable and non-allowable
+uses of Generative technology in this class (NOTE: This is not an
+exhaustive list of examples). Generative technology may be used to
+assist in assessment throughout the course, if you wish to opt out of
+the use of generative technology, please let me know.
 
 How generative technology may be used in assessment:
 

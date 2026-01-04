@@ -107,30 +107,34 @@ online library reserve, or through the library search.
 
 # Methods of Evaluation
 
-+--------------------+----------------------+-------------------------+
-| Option 1           | Option 2             | Option 3                |
-+====================+======================+=========================+
-| Weekly             | Weekly Participation | Weekly Participation    |
-| Participation 15%  | 15% (Quiz and        | 15% (Quiz\              |
-| (Quiz and Group    | Groupwork)           | and Groupwork)          |
-| work)              |                      |                         |
-+--------------------+----------------------+-------------------------+
-| Paired debate/CEL  | Paired debate/ CEL   | Paired debate/ CEL (if  |
-| (if offered) 25%   | (if offered) 25%     | offered) 25%            |
-+--------------------+----------------------+-------------------------+
-| Essay 40% - Due at | Written responses    | Essay 40% - Due at the  |
-| the end of Week 10 | 20% - (250 words     | end of Week 10 (March   |
-| (March 23, 2026)   | minimum) +           | 23, 2026)               |
-|                    | calculation          |                         |
-|                    | assignment due       |                         |
-|                    |                      |                         |
-|                    | April 6, 2026.       |                         |
-+--------------------+----------------------+-------------------------+
-| Exam 20% - online  | Exam 40% - online    | Written responses 20% - |
-| exam during exam   | exam during the exam | (250 words minimum) +   |
-| period             | period               | calculation assignment  |
-|                    |                      | due April 6, 2026.      |
-+--------------------+----------------------+-------------------------+
++---------------------+-----------------------+-----------------------+
+| Option 1            | Option 2              | Option 3              |
++=====================+=======================+=======================+
+| Weekly              | Weekly Participation  | Weekly Participation  |
+| Participation 15%   | 15% (Quiz and         | 15% (Quiz and         |
+| (Quiz and Group     | Groupwork)            | Groupwork)            |
+| work)               |                       |                       |
++---------------------+-----------------------+-----------------------+
+| Paired debate/Media | Paired debate/Media   | Paired debate/Media   |
+| Assessment/ CEL (if | Assessment CEL (if    | Assessment CEL (if    |
+| offered) 25%        | offered) 25%          | offered) 25%          |
++---------------------+-----------------------+-----------------------+
+| Essay 40% - Due at  | Written responses     | Essay 40% - Due at    |
+| the end of Week 10  | 20% - (250 words      | the end of Week 10    |
+| (March 25, 2026)    | minimum) +            | (March 25, 2026)      |
+|                     | calculation           |                       |
+|                     | assignment due        |                       |
+|                     |                       |                       |
+|                     | April 9, 2026.        |                       |
++---------------------+-----------------------+-----------------------+
+| Exam 20% - online   | Exam 40% - online     | Written responses     |
+| exam during exam    | exam during the exam  | 20% - (250 words      |
+| period              | period                | minimum) +            |
+|                     |                       | calculation           |
+|                     |                       | assignment due        |
+|                     |                       |                       |
+|                     |                       | April 9, 2026.        |
++---------------------+-----------------------+-----------------------+
 
 ## For all written work in this course: 
 
@@ -366,8 +370,8 @@ base to 75%). The mark comes from a 250-word paragraph responses or
 infographic, and they need to follow the paragraph requirements outlined
 in this syllabus. **A total of 10 weeks of participation is required**,
 allowing students to skip 2 weeks (e.g., weeks 1 and 12). The total
-grade is calculated on Week 12 following the requirements below.
-
+grade is calculated on Week 12 following the requirements below.\
+\
 Option 3 - students choosing to write an essay and not an exam
 
 Students choosing Option 3 (writing an essay, but not an exam) **must**

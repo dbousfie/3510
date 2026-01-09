@@ -1757,7 +1757,7 @@ the group work counts for 15% of your grade. You have until Wednesday at
 available under assessments, and the group work is available on the
 [Google sheet
 here](https://docs.google.com/spreadsheets/d/1G8HuzHkWEQLxquREBkYkwAhuDhPkM_NnAIRhmIKznbM/edit?gid=88483628#gid=88483628&range=D1).
- You can complete the group work individually if you were not in class.
+ You can complete the group work individually if you were not in class.For students who have taken my courses before, you no longer need to log or record your quiz or group work completion.
 
 There are three different options for completing your work for the
 course. Everyone has to do a term assignment, [the sign up sheet is
@@ -1792,3 +1792,4 @@ Theory. 
 Please reach out if you have any questions,
 
 Dan
+

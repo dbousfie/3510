@@ -1737,3 +1737,58 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     <https://web.archive.org/web/20210413194856/https://studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples>
 
 [^2]: From U-M Faculty Member Alisse Portnoy, English.
+
+This announcement was sent out January 9th it is available in brightspace under announcements
+
+Hi all,
+
+It was nice to meet everyone who was in class yesterday.
+
+If you weren\'t able to attend the [audio from the class is
+here](https://docs.google.com/spreadsheets/d/1G8HuzHkWEQLxquREBkYkwAhuDhPkM_NnAIRhmIKznbM/edit?gid=88483628#gid=88483628&range=A16).
+There are also [backup YouTube videos for each
+week](https://docs.google.com/spreadsheets/d/1G8HuzHkWEQLxquREBkYkwAhuDhPkM_NnAIRhmIKznbM/edit?gid=88483628#gid=88483628&range=C1),
+but they are getting a bit dated and please ignore any course
+instructions in those videos, I have made many changes since then.
+
+Please remember that for each week attempting the quiz, and completing
+the group work counts for 15% of your grade. You have until Wednesday at
+11:59 pm each week to complete the quiz and group work. The quiz is
+available under assessments, and the group work is available on the
+[Google sheet
+here](https://docs.google.com/spreadsheets/d/1G8HuzHkWEQLxquREBkYkwAhuDhPkM_NnAIRhmIKznbM/edit?gid=88483628#gid=88483628&range=D1).
+ You can complete the group work individually if you were not in class.
+
+There are three different options for completing your work for the
+course. Everyone has to do a term assignment, [the sign up sheet is
+here](https://docs.google.com/spreadsheets/d/1G8HuzHkWEQLxquREBkYkwAhuDhPkM_NnAIRhmIKznbM/edit?gid=1875093592#gid=1875093592&range=A1).
+You can either do a media assessment, a paired debate, or CEL (Community
+Engaged Learning) if it is offered. I am hoping to find out this week if
+we have  CEL placements. Please put your name down under the assignment
+you think you will do - you can always change it later, but it lets me
+know what to expect in terms of marking.
+
+The other options for the course are combinations of an essay, weekly
+written submissions, or a take home exam. You don\'t have to indicate
+which option you are choosing to me, it will become apparent based on
+your submissions (i.e. If I don\'t receive an essay I assume you are not
+writing an essay). However this also means that people doing the written
+weekly participation need to start by week 3. There are [prompts for the
+weekly written submissions
+here](https://docs.google.com/spreadsheets/d/1G8HuzHkWEQLxquREBkYkwAhuDhPkM_NnAIRhmIKznbM/edit?gid=0#gid=0&range=B2).
+All of the instructions for weekly written participation are available
+in [the course
+outline](https://uwoca-my.sharepoint.com/:w:/g/personal/dbousfie_uwo_ca/IQB16d5bM_VmSZWVvG1W4psOAR62YSk9AmnhPSywoYfxwmM?e=xbh0OO),
+or you can ask the [syllabus
+bot.](https://westernu.brightspace.com/d2l/le/lessons/157407/topics/3527051) 
+
+We spent most of the class yesterday with the introductory chapter of
+Shilliam\'s [Decolonizing
+Politics](https://www.dropbox.com/scl/fi/dvf1r16ftclu3h167jd3p/Robbie-Shilliam-Decolonizing-Politics_-An-Introduction-Polity-Press-2021.epub?rlkey=ynswaruf6cga096ulrn0rarnb&st=pj0labs5&dl=0)
+text. The first 5 weeks of the course we are decolonizing the major
+subfields of Political Science. Next week we will deal with Political
+Theory. 
+
+Please reach out if you have any questions,
+
+Dan

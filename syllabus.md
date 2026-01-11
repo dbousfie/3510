@@ -44,7 +44,7 @@ Turtle Island (North America).
 
   **Instructor**   Dan Bousfield
 
-  **Office Hours** Wednesday 11:00am- 01:00pm via zoom - link in
+  **Office Hours** Wednesday 11:00am- 01:00pm and Thursday 1:00-2:20pm via zoom - link in
                    Brightspace
 
   **Email:**       dbousfie@uwo.ca
@@ -1792,4 +1792,5 @@ Theory. 
 Please reach out if you have any questions,
 
 Dan
+
 

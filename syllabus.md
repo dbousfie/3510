@@ -1794,3 +1794,9 @@ Please reach out if you have any questions,
 Dan
 
 
+
+Q: what should I do if I miss a quiz?
+A: if you miss a quiz you can do an additional 250 word response and it will count for the 15%
+
+Q: what should I do if I miss a group work?
+A: if you miss a group work you can do an additional 250 word response and it will count for the 15%

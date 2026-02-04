@@ -1800,3 +1800,25 @@ A: if you miss a quiz you can do an additional 250 word response and it will cou
 
 Q: what should I do if I miss a group work?
 A: if you miss a group work you can do an additional 250 word response and it will count for the 15%
+
+Q: I don't really understand how the weekly responses are graded
+A: this is an exchange with a student about it
+
+'We need to demonstrate improvement. I have some students that I am providing consistent feedback that is being ignored week to week.
+
+ I'm trying to focus on improvement, the benefit of calculating at the end of the course is that we can make an argument for consistent improvement from week to week, or over the course in its entirety.
+
+So I'm providing feedback each week to try and provide the foundation for that improvement.
+
+The real issue is people trying to game the system. Some people wanted assurance of a 90 each week, but then they would lock me in with that assessment as some kind of baseline and persistently ignore my comments, ignore feedback and continue to produce the same responses each week.
+
+The only way to prevent that is to have the base of 70, and demonstrate consistent approvement throughout the course. At the end of the course if you can demonstrate improvement you can certainly make the argument that you've been getting at least an 80 each week if not higher, and that you've demonstrated improvement and that is indicated on my weekly responses.
+
+I tend to be very precise and focused in my responses at the beginning of the course but as you can see in the sample, by the end of the course I'm largely just saying 'ok' which is in the 90-100 range.
+
+Once we have the structure down, everything should be good to go - I will mostly provide feedback on ideas rather than structure or citation or Scare quotes or things like that for the first 6 weeks - and because my marking increases near the back end of the course, once we have that structure in place everything will shift to 'ok'.
+
+The paragraph requirements are the same for the essay and the exam so getting them right in the paragraphs is a good foundation for all of the other grading in the course. I would say the single biggest factor impacting essay and exam grades was the lack of either citation or paragraph structure.'
+
+
+

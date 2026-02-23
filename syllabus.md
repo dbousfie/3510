@@ -507,7 +507,7 @@ grades.
 
 ### Option 2 - Media Assessment
 
-Due at the end of **Week 7.** This assignment will critically engage
+Due at the end of **Week 7.** march 11th 2026 This assignment will critically engage
 with a movie or documentary that deals with decolonial politics. A list
 of acceptable material is available on the course webpage, and all media
 must have sufficient levels of academic-based argumentation from our
@@ -1819,6 +1819,7 @@ I tend to be very precise and focused in my responses at the beginning of the 
 Once we have the structure down, everything should be good to go - I will mostly provide feedback on ideas rather than structure or citation or Scare quotes or things like that for the first 6 weeks - and because my marking increases near the back end of the course, once we have that structure in place everything will shift to 'ok'.
 
 The paragraph requirements are the same for the essay and the exam so getting them right in the paragraphs is a good foundation for all of the other grading in the course. I would say the single biggest factor impacting essay and exam grades was the lack of either citation or paragraph structure.'
+
 
 
 

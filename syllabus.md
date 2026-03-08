@@ -516,11 +516,7 @@ of the instructor and must be signed up on the course website at least 2
 weeks before it is handed in. The media assessment must critically
 engage with the content of the movie for its use in our understand of
 the course material, as well as base arguments in academic research and
-debates. You should assess the media for its arguments about
-decolonization, and the viability of the arguments given the academic
-debates on the issue. The assignment should be a minimum of 1000 words,
-in proper essay format (with title page and bibliography) and have a
-minimum of 4 academic sources, drawing primarily from course readings.
+debates. You should assess the media for its arguments about decolonization, and the viability of the arguments given the academic debates on the issue. The assignment should be a minimum of 1000 words and a maximum of 1500 words plus or minus 10% (4-5 pages max), in proper essay format (with title page and bibliography) and have a minimum of 4 academic sources, drawing primarily from course readings.
 All written work must use proper essay paragraph structure and conform
 to the 'criteria for the evaluation of written assignments' below or it
 cannot achieve full grades.
@@ -1819,6 +1815,7 @@ I tend to be very precise and focused in my responses at the beginning of the 
 Once we have the structure down, everything should be good to go - I will mostly provide feedback on ideas rather than structure or citation or Scare quotes or things like that for the first 6 weeks - and because my marking increases near the back end of the course, once we have that structure in place everything will shift to 'ok'.
 
 The paragraph requirements are the same for the essay and the exam so getting them right in the paragraphs is a good foundation for all of the other grading in the course. I would say the single biggest factor impacting essay and exam grades was the lack of either citation or paragraph structure.'
+
 
 
 

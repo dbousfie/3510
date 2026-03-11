@@ -1816,6 +1816,26 @@ Once we have the structure down, everything should be good to go - I will mostly
 
 The paragraph requirements are the same for the essay and the exam so getting them right in the paragraphs is a good foundation for all of the other grading in the course. I would say the single biggest factor impacting essay and exam grades was the lack of either citation or paragraph structure.'
 
+Examples student email and response regarding the final exam
+
+Dear Dan,
+
+I hope this email finds you well. I am writing to get some guidance on the registration for this class's final exam seeing as I chose Option 1 of the Methods of Evaluation. On the syllabus it is indicated as an online exam written during the final exam period however I do not see any date/time listed under my personal exam schedule on the student centre. I was wondering if this was a mistake that I should try to get rectified with my academic advisor or if the exam for this class is not 'officially' taking place during this period meaning it would not show up on my schedule?
+
+Thank you for your time and I look forward to hearing back from you.
+
+Dear student
+
+It is a take home exam, the sign up sheet for the schedule has been available here http://tiny.cc/3510examsignup since week one. You pick the date and time that the exam will be emailed to you.
+
+The sample study guide is here http://tiny.cc/3510study , it is just a draft it will likely be revised in the next few weeks.
+
+Let me know if you have any other questions, Dan
+
+ 
+
+
+
 
 
 

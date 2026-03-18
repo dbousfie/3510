@@ -1832,6 +1832,24 @@ The sample study guide is here http://tiny.cc/3510study , it is just a draft it 
 
 Let me know if you have any other questions, Dan
 
+Hi Professor,
+
+In the message you just sent about our essays, you say that "Everyone has one revise-and-resubmit as long as the essay is submitted by the deadline... you have until the date YOU write the exam to provide your revisions."
+
+What if we are not doing the exam because we did the written responses? When are we expected to provide our revisions and resubmit?
+
+Thanks,
+Student
+
+
+​
+​
+Hi student
+
+That's a good question. Realistically, you should try to get it in as soon as you can, but practically it just needs to be in near the end of the exam slots that I have listed. Let's say April 25th?
+
+Best, Dan
+
  
 
 
